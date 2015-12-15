@@ -1,19 +1,11 @@
-haitao-web-baseline v1.0[![Build Status](https://magnum.travis-ci.com/sf-haitao/haitao-web-baseline.svg?token=xkzT9BS4L6yW34Stxzfz&branch=master)](https://magnum.travis-ci.com/sf-haitao/haitao-web-baseline/builds)
-========================
-
-> 顺丰海淘各类产品的基础框架层
-
 ## 项目搭建
 1. 从`github`上`clone`现在的项目
 
-  ```
-  git clone git@github.com:sf-haitao/haitao-web-baseline.git
-  ```
 
 2. 进入项目目录
 
   ```
-  cd haitao-web-baseline
+  cd canjs-simple
   ```
 
 3. 使用`npm`安装开发依赖包
