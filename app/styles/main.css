@@ -1,0 +1,19 @@
+.title{
+	font-size: 14px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+button{
+	width: 55px;
+    height: 20px;
+	margin-left: 70px;
+}
+
+.copy-text{
+	font-size: 16px;
+	margin-top: 70px;
+    text-align: center;
+    color: yellow;
+}
